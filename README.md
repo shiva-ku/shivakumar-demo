@@ -1,7 +1,7 @@
 # shivakumar-demo
 This is my first Respository
 <br>
-author:shiva kumar
+author:kumar shiva
 <pre>
   Age:20
 </pre>
