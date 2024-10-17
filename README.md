@@ -8,3 +8,6 @@ author:shiva kumar
 <bre>
 place:hyderabad
 </bre>
+<pre>
+status:poor
+</pre>
