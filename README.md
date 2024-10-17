@@ -5,9 +5,10 @@ author:shiva kumar
 <pre>
   Age:20
 </pre>
-<bre>
+<pre>
 place:hyderabad
-</bre>
+</pre>
 <pre>
 status:poor
 </pre>
+
